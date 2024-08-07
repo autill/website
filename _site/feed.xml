@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-08-07T20:16:05+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Autill Website</title><subtitle>Dies ist die Website für Autill</subtitle><entry><title type="html">Mein neuer Blogpost</title><link href="http://localhost:4000/blog/2024/08/06/mein-neuer-blogpost.html" rel="alternate" type="text/html" title="Mein neuer Blogpost" /><published>2024-08-06T00:00:00+02:00</published><updated>2024-08-06T00:00:00+02:00</updated><id>http://localhost:4000/blog/2024/08/06/mein-neuer-blogpost</id><content type="html" xml:base="http://localhost:4000/blog/2024/08/06/mein-neuer-blogpost.html"><![CDATA[<p>Dies ist der Inhalt meines neuen Blogposts. Sie können <strong>Markdown</strong> verwenden, um den Text zu formatieren.</p>
+
+<h2 id="überschrift-2">Überschrift 2</h2>
+
+<ul>
+  <li>Punkt 1</li>
+  <li>Punkt 2</li>
+  <li>Punkt 3</li>
+</ul>
+
+<p><a href="https://example.com">Link zu einer anderen Seite</a></p>]]></content><author><name>Fabian</name></author><category term="blog" /><summary type="html"><![CDATA[Dies ist der Inhalt meines neuen Blogposts. Sie können Markdown verwenden, um den Text zu formatieren.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/blog/blog-1.jpg" /><media:content medium="image" url="http://localhost:4000/assets/img/blog/blog-1.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
