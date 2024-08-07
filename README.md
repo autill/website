@@ -1,2 +1,3 @@
-# website
-The official website for autill.com
+# Autill Website
+This is the version of the README after resolving the conflict.
+
