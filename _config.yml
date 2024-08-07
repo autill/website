@@ -1,7 +1,42 @@
-title: "Autill Website"
-description: "Dies ist die Website für Autill"
-baseurl: "" # Leerlassen für root
-url: "https://autill.github.io/website" # Ihre GitHub Pages URL
+title: "Ihre Website"
+description: "Beschreibung Ihrer Website"
+baseurl: "/website"
+url: "https://autill.github.io"
+
+# Build settings
 markdown: kramdown
+
+# Plugins
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - Rakefile
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Permalinks
+permalink: /:categories/:year/:month/:day/:title/
+
+# Jekyll Feed
+feed:
+  path: atom.xml
+
+# SEO and Sitemap
+seo:
+  name: "Ihre Website"
+  description: "Beschreibung Ihrer Website"
+  url: "https://autill.github.io/website"
+
+sitemap:
+  changefreq: "weekly"
+  priority: 0.7
