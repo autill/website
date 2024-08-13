@@ -1,9 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/website/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/website/" rel="alternate" type="text/html" /><updated>2024-08-13T20:12:03+02:00</updated><id>http://localhost:4000/website/atom.xml</id><title type="html">Ihre Website</title><subtitle>Beschreibung Ihrer Website</subtitle><entry><title type="html">mein-neuer-blogpost</title><link href="http://localhost:4000/website/leh/2024/08/13/mein-neuer-blogpost/" rel="alternate" type="text/html" title="mein-neuer-blogpost" /><published>2024-08-13T00:00:00+02:00</published><updated>2024-08-13T00:00:00+02:00</updated><id>http://localhost:4000/website/leh/2024/08/13/mein-neuer-blogpost</id><content type="html" xml:base="http://localhost:4000/website/leh/2024/08/13/mein-neuer-blogpost/"><![CDATA[<h2 id="willkommen-zu-meinem-neuen-blogpost">Willkommen zu meinem neuen Blogpost</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/website/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/website/" rel="alternate" type="text/html" /><updated>2024-08-13T20:27:50+02:00</updated><id>http://localhost:4000/website/atom.xml</id><title type="html">Ihre Website</title><subtitle>Beschreibung Ihrer Website</subtitle><entry><title type="html">mein-neuer-blogpost</title><link href="http://localhost:4000/website/leh/2024/08/13/mein-neuer-blogpost/" rel="alternate" type="text/html" title="mein-neuer-blogpost" /><published>2024-08-13T00:00:00+02:00</published><updated>2024-08-13T00:00:00+02:00</updated><id>http://localhost:4000/website/leh/2024/08/13/mein-neuer-blogpost</id><content type="html" xml:base="http://localhost:4000/website/leh/2024/08/13/mein-neuer-blogpost/"><![CDATA[<h2 id="willkommen-zu-meinem-neuen-blogpost">Willkommen zu meinem neuen Blogpost</h2>
 
+<h1 id="ist-das-eine-weitere-überschrift">Ist das eine weitere Überschrift?</h1>
+<h3 id="ist-das-eine-weitere-überschrift-1">Ist das eine weitere Überschrift?</h3>
 <ul>
   <li>Punkt 1</li>
   <li>Punkt 2</li>
   <li>Punkt 3</li>
+  <li>Punkt 4</li>
+  <li>Punkt 5</li>
+  <li>Punkt 6</li>
 </ul>
 
 <p><a href="https://example.com">Link zu einer anderen Seite</a></p>]]></content><author><name>Dein Name</name></author><category term="LEH" /><summary type="html"><![CDATA[Kurze Beschreibung des Posts]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/website/assets/img/blog/bildname.jpg" /><media:content medium="image" url="http://localhost:4000/website/assets/img/blog/bildname.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
