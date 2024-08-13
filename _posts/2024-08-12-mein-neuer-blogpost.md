@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "mein-neuer-blogpost"
-date: 2024-08-13
+date: 2024-08-12
 categories: LEH
 author: Dein Name
 image: /assets/img/blog/bildname.jpg
