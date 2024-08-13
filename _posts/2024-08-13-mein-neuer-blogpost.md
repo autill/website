@@ -3,7 +3,7 @@ layout: post
 title: "Mein neuer Blogpost"
 date: 2024-08-08
 author: Fabian
-categories: blog
+categories: [LEH, Trends]
 image: /assets/img/blog/blog-1.jpg
 ---
 
