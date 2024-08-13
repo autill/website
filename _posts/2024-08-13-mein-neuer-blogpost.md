@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Mein neuer Blogpost"
-date: 2024-08-08
-author: Fabian
-categories: [LEH]
-image: /assets/img/blog/blog-1.jpg
+title: "Dein Blogpost-Titel"
+date: 2024-01-01
+author: Dein Name
+image: /assets/img/blog/bildname.jpg
+description: Kurze Beschreibung des Posts
 ---
 
 ## Willkommen zu meinem neuen Blogpost
