@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dein Blogpost-Titel"
+title: "mein-neuer-blogpost"
 date: 2024-08-13
 categories: LEH
 author: Dein Name
