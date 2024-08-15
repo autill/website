@@ -58,7 +58,7 @@
                 <ul>
                   <li class="d-flex align-items-center"><i class="bi bi-person"></i> <a href="#">{{ page.author }}</a></li>
                   <li class="d-flex align-items-center"><i class="bi bi-clock"></i> <time datetime="{{ page.date | date: '%Y-%m-%d' }}">{{ page.date | date_to_string }}</time></a></li>
-                  <li class="d-flex align-items-center"><i the bi bi-chat-dots"></i> <a href="#">12 Comments</a></li>
+                  <li class="d-flex align-items-center"><i class="bi bi-chat-dots"></i> <a href="#">12 Comments</a></li>
                 </ul>
               </div>
 
@@ -68,10 +68,24 @@
             </article>
           </section>
         </div>
+
+        {% include sidebar.html %}
       </div>
     </div>
   </main>
 
   {% include footer.html %}
+
+  <a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+  <div id="preloader"></div>
+
+  <!-- Vendor and Main JS files -->
+  <script src="{{ '/assets/vendor/bootstrap/js/bootstrap.bundle.min.js' | relative_url }}"></script>
+  <script src="{{ '/assets/vendor/aos/aos.js' | relative_url }}"></script>
+  <script src="{{ '/assets/vendor/glightbox/js/glightbox.min.js' | relative_url }}"></script>
+  <script src="{{ '/assets/vendor/swiper/swiper-bundle.min.js' | relative_url }}"></script>
+  <script src="{{ '/assets/vendor/imagesloaded/imagesloaded.pkgd.min.js' | relative_url }}"></script>
+  <script src="{{ '/assets/vendor/isotope-layout/isotope.pkgd.min.js' | relative_url }}"></script>
+  <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
 </body>
 </html>
