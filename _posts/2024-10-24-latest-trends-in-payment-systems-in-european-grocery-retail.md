@@ -15,6 +15,7 @@ permalink: /blog/2024/10/24/latest-trends-in-payment-systems-in-european-grocery
 <div class="post-img">
   <img src="{{ site.baseurl }}/assets/img/blog/grocery-retail-scene-payment-trends-2025.jpg" alt="Grocery Retail Scene Payment Trends 2025" class="img-fluid">
 </div>
+<!-- If you want to show the photo above the blog post, comment this out and uncomment the line in the blog-details page -->
 
 The European grocery retail sector has been undergoing rapid changes in recent years, with significant advancements in payment systems playing a pivotal role in shaping the future of how consumers interact with retailers. With the increasing digitalization of retail, consumers are demanding faster, more convenient, and secure payment options. Below are some of the latest trends shaping payment systems in European grocery retail:
 
