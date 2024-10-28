@@ -66,7 +66,6 @@ Spain’s grocery market is notable for the dominance of local chains like [Merc
 
 ### Preview: What are the largest retailers worldwide?
 
-Please find a full list of retailers size comparison below:
 <img src="{{ site.baseurl }}/assets/img/blog/statistic_id266595_world_-leading-retailers-2021-by-retail-revenue.png" alt="Largest Grocery Retailers 2021" class="img-fluid">
 
 ---
