@@ -2358,6 +2358,11 @@ section,
   margin-bottom: 0;
 }
 
+/* Custom Meta Top Spacing */
+.custom-meta-top {
+  margin-bottom: 60px; /* Adjust the value as needed for 1-2 lines of white space */
+}
+
 .search-widget form {
   background: var(--background-color);
   border: 1px solid color-mix(in srgb, var(--default-color), transparent 70%);

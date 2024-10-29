@@ -1,16 +1,14 @@
 ---
 layout: blog-details
-title: "Latest Trends in Payment Systems in European Grocery Retail"
+title: "Trends in Payment Systems in European Grocery Retail"
 date: 2024-10-24
-categories: Europe
-tags: [Trends, Payments, Europe, Innovations]
+categories: [Retail Technology]
+tags: [grocery retail, contactless payments, self-checkout, mobile wallets, autonomous stores, BNPL, biometric payments, QR code payments, cryptocurrency]
 author: Sabine Schäfer
 image: /assets/img/blog/grocery-retail-scene-payment-trends-2025.jpg
 description: Explore the latest trends in payment systems within the European grocery retail sector, including contactless payments, BNPL services, and innovations like autonomous stores and biometric payments, reshaping consumer shopping experiences.
 permalink: /blog/2024/10/24/latest-trends-in-payment-systems-in-european-grocery-retail/
 ---
-
-### Latest Trends in Payment Systems in European Grocery Retail
 
 <div class="post-img">
   <img src="{{ site.baseurl }}/assets/img/blog/grocery-retail-scene-payment-trends-2025.jpg" alt="Grocery Retail Scene Payment Trends 2025" class="img-fluid">
