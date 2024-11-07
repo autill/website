@@ -5,6 +5,7 @@ date: 2024-10-27
 categories: [Mobile Payments]
 tags: [mobile wallets, retail experience, loyalty programs, digital coupons, personalization, Apple Pay, Google Wallet, contactless payments]
 author: Sabine Schäfer
+author_image: /assets/img/blog/blog-author-2.jpg
 image: /assets/img/blog/retail-grocery-store-with-wallet-payments.jpg
 description: Explore how mobile wallets like Apple Pay, Google Wallet, and retail apps from Lidl and Rossmann are transforming grocery shopping in Europe with seamless payments, integrated loyalty programs, digital coupons, and personalized offers for a more convenient, secure, and rewarding consumer experience.
 permalink: /blog/2024/10/27/rise-of-mobile-wallets-in-retail-experience/
