@@ -1,12 +1,12 @@
 ---
-layout: blog-details
+layout: blog-details-layout
 title: "Largest Grocery Retail Markets in Europe"
 date: 2024-10-23
 categories: [Market analysis]
 tags: [grocery market, private label, grocery trends, sustainability, European retail]
 author: Sabine Schäfer
-author_image: /assets/img/blog/blog-author.jpg
-image: /assets/img/blog/european-grocery-retailers-2.jpg
+author_image: /assets/img/blog/blog-author-2.jpg
+image: /assets/img/blog/european-grocery-retailers.jpg
 description: Discover the top grocery retail markets in Europe, including detailed insights into Germany, the UK, France, Italy, and Spain. Explore market sizes, consumer trends, and the latest innovations shaping Europe’s grocery landscape.
 permalink: /blog/2024/10/23/largest-grocery-retail-markets-europe/
 ---

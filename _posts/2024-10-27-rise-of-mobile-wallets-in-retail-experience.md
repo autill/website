@@ -1,5 +1,5 @@
 ---
-layout: blog-details
+layout: blog-details-layout
 title: "Rise of Mobile Wallets in the Retail Experience"
 date: 2024-10-27
 categories: [Mobile Payments]

@@ -1,5 +1,5 @@
 ---
-layout: blog-details
+layout: blog-details-layout
 title: "Trends in Payment Systems in European Grocery Retail"
 date: 2024-10-24
 categories: [Retail Technology]

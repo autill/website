@@ -30,9 +30,7 @@
   <main class="container mt-4">
     {{ content }}
   </main>
-  <footer class="text-center mt-4">
-    <p>{{ site.description }}</p>
-  </footer>
+  {% include footer.html %}
   <script src="{{ site.baseurl }}/assets/js/bootstrap.bundle.min.js"></script>
   <script src="{{ site.baseurl }}/assets/js/script.js"></script>
 </body>
