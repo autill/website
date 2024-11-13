@@ -1,1 +1,1 @@
-Sitemap: http://127.0.0.1:4000/website/sitemap.xml
+Sitemap: https://autill.github.io/autill/sitemap.xml
