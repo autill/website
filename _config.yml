@@ -1,7 +1,10 @@
 title: "Autill"
 description: "Beschreibung Ihrer Website"
-baseurl: "/website"
-url: "http://127.0.0.1:4000"
+baseurl: "autill" # Setzen Sie dies auf den Repository-Namen
+url: "https://autill.github.io" # Setzen Sie dies auf Ihre GitHub Pages URL
+
+
+# url: "http://127.0.0.1:4000"
 
 # url: "http://localhost:4000" 
 
