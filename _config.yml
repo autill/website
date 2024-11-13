@@ -1,7 +1,8 @@
 title: "Autill"
 description: "Beschreibung Ihrer Website"
-baseurl: "autill" # Setzen Sie dies auf den Repository-Namen
-url: "https://autill.github.io" # Setzen Sie dies auf Ihre GitHub Pages URL
+baseurl: "" # Leer lassen, da Sie eine benutzerdefinierte Domain verwenden
+url: "https://autill.com" # Setzen Sie dies auf Ihre benutzerdefinierte Domain
+
 
 
 # url: "http://127.0.0.1:4000"
