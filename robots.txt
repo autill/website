@@ -1,1 +1,1 @@
-Sitemap: https://autill.github.io/autill/sitemap.xml
+Sitemap: https://autill.com/sitemap.xml
