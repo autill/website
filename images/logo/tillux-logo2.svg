@@ -1,0 +1,30 @@
+<svg width="400" height="100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Definitionsbereich für Farbverläufe -->
+  <defs>
+    <!-- Hauptgradient: Anthrazit zu Gold-Akzent -->
+    <linearGradient id="mainGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#333333;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#D4AF37;stop-opacity:1" />
+    </linearGradient>
+    <!-- Subtiler Lichtakzent für das "T" -->
+    <linearGradient id="lightAccent" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#FFFFFF;stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:#FFFFFF;stop-opacity:0" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Icon: Stilisiertes "T" -->
+  <g id="icon" transform="translate(10,10)">
+    <!-- Vertikaler Balken -->
+    <rect x="0" y="0" width="20" height="60" fill="url(#mainGrad)" />
+    <!-- Horizontaler Balken -->
+    <rect x="-10" y="0" width="40" height="20" fill="url(#mainGrad)" />
+    <!-- Lichtakzent als Überlagerung im horizontalen Balken -->
+    <rect x="-10" y="0" width="40" height="10" fill="url(#lightAccent)" />
+  </g>
+  
+  <!-- Schriftzug "Tillux" -->
+  <text x="80" y="55" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="50" fill="#333333" font-weight="600">
+    Tillux
+  </text>
+</svg>
