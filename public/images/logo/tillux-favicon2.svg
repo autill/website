@@ -1,0 +1,14 @@
+<svg width="64" height="64" xmlns="http://www.w3.org/2000/svg">
+  <!-- Abgerundeter Hintergrund -->
+  <rect width="64" height="64" rx="12" ry="12" fill="#333333"/>
+  
+  <!-- Stilisiertes "T" zentriert -->
+  <g transform="translate(16,12)">
+    <!-- Vertikaler Balken -->
+    <rect x="0" y="0" width="12" height="40" fill="#D4AF37" />
+    <!-- Horizontaler Balken -->
+    <rect x="-6" y="0" width="24" height="12" fill="#D4AF37" />
+    <!-- Optional: Lichtakzent im horizontalen Balken -->
+    <rect x="-6" y="0" width="24" height="6" fill="rgba(255,255,255,0.7)" />
+  </g>
+</svg>

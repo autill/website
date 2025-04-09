@@ -1,0 +1,14 @@
+title = "Autill - Autonome Kassentechnologie"
+baseURL = "http://autill.com/"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+multilingual = true
+
+[languages]
+  [languages.en]
+    weight = 1
+    contentDir = "content/en"
+  
+  [languages.de]
+    weight = 2
+    contentDir = "content/de"
