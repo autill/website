@@ -4,8 +4,11 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <script>
-            if (window.location.hostname === "autill.com" || window.location.hostname === "www.autill.com") {
-                window.location.href = "/en";
+            if (
+              (window.location.hostname === "autill.com" || window.location.hostname === "www.autill.com") &&
+              (window.location.pathname === "/" || window.location.pathname === "/index.html")
+            ) {
+              window.location.href = "/en";
             }
         </script>
         <title>Redirecting...</title>
