@@ -1,0 +1,9 @@
+# Hugo build output
+public/
+
+# VS Code
+.vscode/
+
+# OS/Editor junk
+.DS_Store
+Thumbs.db
