@@ -1,8 +1,0 @@
-<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
-  <!-- Äußerer Umriss in Primärfarbe -->
-  <polygon points="100,20 40,180 160,180" fill="none" stroke="#1A237E" stroke-width="12"/>
-  <!-- Innerer, versetzter Umriss in Akzentfarbe -->
-  <polygon points="100,35 50,175 150,175" fill="none" stroke="#00BCD4" stroke-width="4"/>
-  <!-- Zentrales Designelement -->
-  <circle cx="100" cy="100" r="10" fill="#00BCD4" />
-</svg>
