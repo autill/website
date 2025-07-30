@@ -7,11 +7,15 @@
       </div>
     </div>
     <nav style="flex: 2; text-align: right;">
-      <ul>
-        <li><a href="#about">Über uns</a></li>
-        <li><a href="#technology">Technologie</a></li>
-        <li><a href="#applications">Einsatzbereiche</a></li>
-        <li><a href="#contact">Kontakt</a></li>
+      <ul style="display:inline-block; margin:0; padding:0; list-style:none;">
+        <li style="display:inline; margin-right:18px;"><a href="#about">{{ i18n "about" }}</a></li>
+        <li style="display:inline; margin-right:18px;"><a href="#technology">{{ i18n "technology" }}</a></li>
+        <li style="display:inline; margin-right:18px;"><a href="#applications">{{ i18n "applications" }}</a></li>
+        <li style="display:inline; margin-right:18px;"><a href="#contact">{{ i18n "contact" }}</a></li>
+        <li style="display:inline; margin-left:30px;">
+          <a href="{{ "/en/" | relURL }}" {{ if eq .Site.Language.Lang "en" }}style="font-weight:bold;text-decoration:underline;"{{ end }}>EN</a> |
+          <a href="{{ "/de/" | relURL }}" {{ if eq .Site.Language.Lang "de" }}style="font-weight:bold;text-decoration:underline;"{{ end }}>DE</a>
+        </li>
       </ul>
     </nav>
   </div>

@@ -1,0 +1,8 @@
+- id: about
+  translation: "About"
+- id: technology
+  translation: "Technology"
+- id: applications
+  translation: "Applications"
+- id: contact
+  translation: "Contact"
